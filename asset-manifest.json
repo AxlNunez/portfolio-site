@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio-site/static/css/main.5f4430e2.css",
-    "main.js": "/portfolio-site/static/js/main.37192011.js",
+    "main.js": "/portfolio-site/static/js/main.8f1db41d.js",
     "static/media/advdiv.png": "/portfolio-site/static/media/advdiv.2ebaea34122795a056c3.png",
     "static/media/comingsoon.jpg": "/portfolio-site/static/media/comingsoon.803543fe5a3a816725b4.jpg",
-    "static/media/AxlNunez-SoftwareEngineer.pdf": "/portfolio-site/static/media/AxlNunez-SoftwareEngineer.09e504d803579a88a1e3.pdf",
+    "static/media/AxlNunez-SoftwareEngineer.pdf": "/portfolio-site/static/media/AxlNunez-SoftwareEngineer.13833bf0cc633f7428f3.pdf",
     "static/media/logo.png": "/portfolio-site/static/media/logo.34bc035371740fac0c50.png",
     "index.html": "/portfolio-site/index.html",
     "main.5f4430e2.css.map": "/portfolio-site/static/css/main.5f4430e2.css.map",
-    "main.37192011.js.map": "/portfolio-site/static/js/main.37192011.js.map"
+    "main.8f1db41d.js.map": "/portfolio-site/static/js/main.8f1db41d.js.map"
   },
   "entrypoints": [
     "static/css/main.5f4430e2.css",
-    "static/js/main.37192011.js"
+    "static/js/main.8f1db41d.js"
   ]
 }
