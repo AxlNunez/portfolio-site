@@ -1,4 +1,4 @@
-import { FaGithub, FaLinkedinIn, FaInstagram } from "react-icons/fa";
+import { FaGithub, FaLinkedinIn } from "react-icons/fa";
 import {
    SiDotnet,
    SiVisualstudio,
@@ -70,11 +70,11 @@ const socials = [
       url: "https://linkedin.com/in/AxlNunez",
       icon: <FaLinkedinIn />,
    },
-   {
-      name: "instagram",
-      url: "https://www.instagram.com/AxlCodes/",
-      icon: <FaInstagram />,
-   },
+   // {
+   //    name: "instagram",
+   //    url: "https://www.instagram.com/AxlCodes/",
+   //    icon: <FaInstagram />,
+   // },
 ];
 
 const languages = [
