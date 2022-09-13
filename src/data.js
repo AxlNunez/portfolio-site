@@ -199,7 +199,7 @@ const projects = [
    },
    {
       name: "future project",
-      image: somethingLogo,
+      image: comingsoon,
       github_url: "https://github.com/AxlNunez/tbd",
       site_url: "https://tbd.com/",
       desc: "Enter interesting description here",
