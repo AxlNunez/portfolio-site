@@ -70,11 +70,6 @@ const socials = [
       url: "https://linkedin.com/in/AxlNunez",
       icon: <FaLinkedinIn />,
    },
-   // {
-   //    name: "instagram",
-   //    url: "https://www.instagram.com/AxlCodes/",
-   //    icon: <FaInstagram />,
-   // },
 ];
 
 const languages = [
@@ -194,12 +189,12 @@ const projects = [
       featured: true,
    },
    {
-      name: "Coming Soon",
+      name: "Top-Down Zombie Shooter Game",
       image: comingsoon,
-      github_url: "https://Axl.Codes",
-      site_url: "https://Axl.Codes",
-      desc: "Coming soon",
-      stack: [],
+      github_url: "https://github.com/AxlNunez/Csharp-ZombieShooter",
+      site_url: "https://github.com/AxlNunez/Csharp-ZombieShooter",
+      desc: "This game was created utilizing C# and Windows Forms. Movement is done utilizing your arrow keys, shooting is with the Space bar, and once dead you can restart the game using the Enter key.",
+      stack: ["c# (c sharp)"],
       featured: false,
    },
    //   {
