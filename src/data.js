@@ -197,15 +197,15 @@ const projects = [
       stack: ["c# (c sharp)"],
       featured: false,
    },
-   //   {
-   //     name: "future project",
-   //     image: somethingLogo,
-   //     github_url: "https://github.com/AxlNunez/tbd",
-   //     site_url: "https://tbd.com/",
-   //     desc: "Enter interesting description here",
-   //     stack: ["javascript", "react", "CSS3"],
-   //     featured: false,
-   //  },
+   {
+      name: "future project",
+      image: somethingLogo,
+      github_url: "https://github.com/AxlNunez/tbd",
+      site_url: "https://tbd.com/",
+      desc: "Enter interesting description here",
+      stack: ["javascript", "react", "CSS3"],
+      featured: false,
+   },
 ];
 
 export { navLinks, themes, socials, languages, projects };
