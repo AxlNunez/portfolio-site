@@ -191,9 +191,22 @@ const projects = [
    {
       name: "Top-Down Zombie Shooter Game",
       image: comingsoon,
-      github_url: "https://github.com/AxlNunez/Csharp-ZombieShooter",
-      site_url: "https://github.com/AxlNunez/Csharp-ZombieShooter",
+      github_url:
+         "https://github.com/AxlNunez/CSharp-Projects/tree/main/01-Top-Down%20Zombie%20Shooter%20Game",
+      site_url:
+         "https://github.com/AxlNunez/CSharp-Projects/tree/main/01-Top-Down%20Zombie%20Shooter%20Game",
       desc: "This game was created utilizing C# and Windows Forms. Movement is done utilizing your arrow keys, shooting is with the Space bar, and once dead you can restart the game using the Enter key.",
+      stack: ["c# (c sharp)"],
+      featured: false,
+   },
+   {
+      name: "Tic Tac Toe Game",
+      image: comingsoon,
+      github_url:
+         "https://github.com/AxlNunez/CSharp-Projects/tree/main/02%20-%20Tic%20Tac%20Toe%20Game",
+      site_url:
+         "https://github.com/AxlNunez/CSharp-Projects/tree/main/02%20-%20Tic%20Tac%20Toe%20Game",
+      desc: "A game as old as time, it's a simple game created using C# and Windows Forms. There are 9 squares with the option of 'X' or 'O' and 3 outcomes 'X wins', 'O wins', 'Draw'",
       stack: ["c# (c sharp)"],
       featured: false,
    },
