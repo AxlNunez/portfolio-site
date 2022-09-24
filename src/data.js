@@ -210,6 +210,17 @@ const projects = [
       stack: ["c# (c sharp)"],
       featured: false,
    },
+   {
+      name: "React Calculator",
+      image: comingsoon,
+      github_url:
+         "https://github.com/AxlNunez/React-JavaScript-Projects/tree/main/01-React%20Calculator",
+      site_url:
+         "https://github.com/AxlNunez/React-JavaScript-Projects/tree/main/01-React%20Calculator",
+      desc: "A simple calculator created using React.",
+      stack: ["React"],
+      featured: false,
+   },
    //   {
    //     name: "future project",
    //     image: somethingLogo,
