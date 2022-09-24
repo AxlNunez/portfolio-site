@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.d64f0c4e.chunk.css",
-    "main.js": "/static/js/main.0f10b602.chunk.js",
-    "main.js.map": "/static/js/main.0f10b602.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.625d71b6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.625d71b6.js.map",
-    "static/js/2.2aff55df.chunk.js": "/static/js/2.2aff55df.chunk.js",
-    "static/js/2.2aff55df.chunk.js.map": "/static/js/2.2aff55df.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.d64f0c4e.chunk.css.map": "/static/css/main.d64f0c4e.chunk.css.map",
-    "static/js/2.2aff55df.chunk.js.LICENSE.txt": "/static/js/2.2aff55df.chunk.js.LICENSE.txt",
-    "static/media/AxlNunez-SoftwareEngineer.13833bf0.pdf": "/static/media/AxlNunez-SoftwareEngineer.13833bf0.pdf",
-    "static/media/advdiv.2ebaea34.png": "/static/media/advdiv.2ebaea34.png",
-    "static/media/comingsoon.803543fe.jpg": "/static/media/comingsoon.803543fe.jpg",
-    "static/media/logo.34bc0353.png": "/static/media/logo.34bc0353.png"
+    "main.css": "/portfolio-site/static/css/main.d64f0c4e.chunk.css",
+    "main.js": "/portfolio-site/static/js/main.0f10b602.chunk.js",
+    "main.js.map": "/portfolio-site/static/js/main.0f10b602.chunk.js.map",
+    "runtime-main.js": "/portfolio-site/static/js/runtime-main.778e8330.js",
+    "runtime-main.js.map": "/portfolio-site/static/js/runtime-main.778e8330.js.map",
+    "static/js/2.2aff55df.chunk.js": "/portfolio-site/static/js/2.2aff55df.chunk.js",
+    "static/js/2.2aff55df.chunk.js.map": "/portfolio-site/static/js/2.2aff55df.chunk.js.map",
+    "index.html": "/portfolio-site/index.html",
+    "static/css/main.d64f0c4e.chunk.css.map": "/portfolio-site/static/css/main.d64f0c4e.chunk.css.map",
+    "static/js/2.2aff55df.chunk.js.LICENSE.txt": "/portfolio-site/static/js/2.2aff55df.chunk.js.LICENSE.txt",
+    "static/media/AxlNunez-SoftwareEngineer.13833bf0.pdf": "/portfolio-site/static/media/AxlNunez-SoftwareEngineer.13833bf0.pdf",
+    "static/media/advdiv.2ebaea34.png": "/portfolio-site/static/media/advdiv.2ebaea34.png",
+    "static/media/comingsoon.803543fe.jpg": "/portfolio-site/static/media/comingsoon.803543fe.jpg",
+    "static/media/logo.34bc0353.png": "/portfolio-site/static/media/logo.34bc0353.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.625d71b6.js",
+    "static/js/runtime-main.778e8330.js",
     "static/js/2.2aff55df.chunk.js",
     "static/css/main.d64f0c4e.chunk.css",
     "static/js/main.0f10b602.chunk.js"
