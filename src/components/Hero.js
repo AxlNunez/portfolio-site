@@ -15,8 +15,8 @@ export default function Hero() {
                   My name is Axl Nuñez, I'm a Marine Corps veteran and a student
                   at University of Maryland Global Campus. Currently, I am
                   pursuing a dual degree in Computer Science. Additionally, I am
-                  an experienced Full-Stack Software Engineer, I build web
-                  applications from the ground up.
+                  an experienced Full-Stack Software Engineer, I build web and
+                  desktop applications from the ground up.
                </p>
             </div>
             <button
