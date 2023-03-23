@@ -13,7 +13,7 @@ export default function Hero() {
                <h1 className="hero-big-heading secondry-big-heading">I'm a </h1>
                <p className="hero-desc">
                   My name is Axl Nuñez, I'm a Marine Corps veteran and a student
-                  at Montclair State University, New Jersey. Currently, I am
+                  at University of Maryland Global Campus. Currently, I am
                   pursuing a dual degree in Computer Science. Additionally, I am
                   an experienced Full-Stack Software Engineer, I build web
                   applications from the ground up.
